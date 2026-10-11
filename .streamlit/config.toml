@@ -1,0 +1,14 @@
+[server]
+headless = true
+address = "127.0.0.1"
+enableCORS = true
+maxUploadSize = 1
+
+[browser]
+gatherUsageStats = false
+
+[theme]
+primaryColor = "#0f766e"
+backgroundColor = "#ffffff"
+secondaryBackgroundColor = "#f1f5f9"
+textColor = "#0f172a"
